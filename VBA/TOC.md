@@ -8,7 +8,7 @@
 
 ## [Library Reference VBA](Library-Reference-VBA/articles/727c4e1c-e13c-7bac-e833-b1322607dfd3.md)
 
-## [Office Mac VBA](Office-Mac-VBA/IntroductionTOC.md)
+## [Office Mac VBA](Office-Mac-VBA/Introduction.md)
 
 ## [Outlook VBA](Outlook-VBA/articles/75e4ad96-62a2-49d2-bc51-48ceab50634c.md)
 

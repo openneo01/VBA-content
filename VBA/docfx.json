@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -25,7 +26,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+        "breadcrumb_path": "/VBA/Breadcrumb/toc.json"
+    },
     "fileMetadata": {},
     "template": [
       null

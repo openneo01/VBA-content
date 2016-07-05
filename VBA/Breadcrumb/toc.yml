@@ -1,0 +1,37 @@
+- name: Office VBA Reference
+  href: /VBA/
+  homepage: /VBA/Office-VBA-Reference
+  items:
+  - name: Access VBA
+    href: /VBA/Access-VBA/articles/
+    homepage: /VBA/Access-VBA/articles/0e9c6fa4-3289-4a13-b409-354c70129308
+  - name: Excel VBA
+    href: /VBA/Excel-VBA/articles/
+    homepage: /VBA/Excel-VBA/articles/5caf65ef-b7f5-4cbe-ab2e-459f027f53a4
+  - name: Language-Reference-VBA VBA
+    href: /VBA/Language-Reference-VBA-VBA/articles/
+    homepage: /VBA/Language-Reference-VBA-VBA/articles/9c1e8386-0309-c52c-856b-963220382eb8
+  - name: Library-Reference VBA
+    href: /VBA/Library-Reference-VBA/articles/
+    homepage: /VBA/Library-Reference-VBA/articles/727c4e1c-e13c-7bac-e833-b1322607dfd3
+  - name: Office-Mac-VBA VBA
+    href: /VBA/Office-Mac-VBA-VBA/
+    homepage: /VBA/Office-Mac-VBA-VBA/Introduction
+  - name: Outlook VBA
+    href: /VBA/Outlook-VBA/articles/
+    homepage: /VBA/Outlook-VBA/articles/75e4ad96-62a2-49d2-bc51-48ceab50634c
+  - name: PowerPoint VBA
+    href: /VBA/PowerPoint-VBA/articles/
+    homepage: /VBA/PowerPoint-VBA/articles/db64b49a-e02f-4c53-a488-81c017dcea57
+  - name: Project VBA
+    href: /VBA/Project-VBA/articles/
+    homepage: /VBA/Project-VBA/articles/547d1948-312f-456a-9f7b-8097ec46a436
+  - name: Publisher VBA
+    href: /VBA/Publisher-VBA/articles/
+    homepage: /VBA/Publisher-VBA/articles/f6205a28-3858-4c73-b291-65e56a2fc015
+  - name: Visio VBA
+    href: /VBA/Visio-VBA/articles/
+    homepage: /VBA/Visio-VBA/articles/b6834d21-5898-4dd9-af2b-9ffeb1b92a1c
+  - name: Word VBA
+    href: /VBA/Word-VBA/articles/
+    homepage: /VBA/Word-VBA/articles/3080c270-5198-4b4f-922d-cb13e4b71bb3
